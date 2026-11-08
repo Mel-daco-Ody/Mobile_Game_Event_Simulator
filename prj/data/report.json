@@ -1,0 +1,1641 @@
+{
+  "start_date": "2026-08-01",
+  "end_date": "2026-09-29",
+  "n_days": 60,
+  "total_players": 100,
+  "total_sessions": 1271,
+  "total_events": 13765,
+  "total_batches": 60,
+  "total_revenue_minor": 932058,
+  "total_revenue_usd": 9320.58,
+  "total_paying_players": 7,
+  "by_category": {
+    "user": 1271,
+    "progression": 2535,
+    "design": 3571,
+    "resource": 5110,
+    "session_end": 1271,
+    "business": 7
+  },
+  "by_country": {
+    "GB": 1153,
+    "KR": 1294,
+    "VN": 4663,
+    "TH": 1146,
+    "FR": 265,
+    "BR": 974,
+    "DE": 687,
+    "ID": 354,
+    "US": 2426,
+    "JP": 803
+  },
+  "by_day": [
+    {
+      "date": "2026-08-01",
+      "active_players": 51,
+      "new_sessions": 51,
+      "events_generated": 556,
+      "batches_flushed": 1,
+      "by_category": {
+        "user": 51,
+        "progression": 102,
+        "design": 157,
+        "resource": 195,
+        "session_end": 51
+      },
+      "by_country": {
+        "GB": 65,
+        "KR": 62,
+        "VN": 155,
+        "TH": 60,
+        "FR": 20,
+        "BR": 33,
+        "DE": 21,
+        "ID": 46,
+        "US": 73,
+        "JP": 21
+      },
+      "wall_clock_sec": 1.9249377250671387,
+      "errors": 0,
+      "revenue_minor": 0
+    },
+    {
+      "date": "2026-08-02",
+      "active_players": 35,
+      "new_sessions": 35,
+      "events_generated": 380,
+      "batches_flushed": 1,
+      "by_category": {
+        "user": 35,
+        "progression": 70,
+        "design": 100,
+        "resource": 140,
+        "session_end": 35
+      },
+      "by_country": {
+        "GB": 45,
+        "KR": 36,
+        "TH": 55,
+        "FR": 12,
+        "VN": 86,
+        "BR": 37,
+        "DE": 21,
+        "JP": 20,
+        "US": 57,
+        "ID": 11
+      },
+      "wall_clock_sec": 1.2615976333618164,
+      "errors": 0,
+      "revenue_minor": 0
+    },
+    {
+      "date": "2026-08-03",
+      "active_players": 27,
+      "new_sessions": 27,
+      "events_generated": 308,
+      "batches_flushed": 1,
+      "by_category": {
+        "user": 27,
+        "progression": 54,
+        "design": 83,
+        "resource": 117,
+        "session_end": 27
+      },
+      "by_country": {
+        "GB": 44,
+        "TH": 33,
+        "VN": 69,
+        "BR": 28,
+        "DE": 12,
+        "US": 73,
+        "KR": 22,
+        "ID": 27
+      },
+      "wall_clock_sec": 1.0181186199188232,
+      "errors": 0,
+      "revenue_minor": 0
+    },
+    {
+      "date": "2026-08-04",
+      "active_players": 16,
+      "new_sessions": 16,
+      "events_generated": 182,
+      "batches_flushed": 1,
+      "by_category": {
+        "user": 16,
+        "progression": 32,
+        "design": 56,
+        "resource": 61,
+        "session_end": 16,
+        "business": 1
+      },
+      "by_country": {
+        "VN": 36,
+        "BR": 38,
+        "DE": 21,
+        "US": 45,
+        "JP": 8,
+        "KR": 9,
+        "GB": 14,
+        "TH": 11
+      },
+      "wall_clock_sec": 0.5288152694702148,
+      "errors": 0,
+      "revenue_minor": 299
+    },
+    {
+      "date": "2026-08-05",
+      "active_players": 23,
+      "new_sessions": 23,
+      "events_generated": 265,
+      "batches_flushed": 1,
+      "by_category": {
+        "user": 23,
+        "progression": 46,
+        "design": 87,
+        "resource": 86,
+        "session_end": 23
+      },
+      "by_country": {
+        "VN": 107,
+        "TH": 25,
+        "FR": 10,
+        "BR": 21,
+        "DE": 15,
+        "KR": 26,
+        "US": 32,
+        "JP": 13,
+        "ID": 16
+      },
+      "wall_clock_sec": 0.7504241466522217,
+      "errors": 0,
+      "revenue_minor": 0
+    },
+    {
+      "date": "2026-08-06",
+      "active_players": 23,
+      "new_sessions": 23,
+      "events_generated": 242,
+      "batches_flushed": 1,
+      "by_category": {
+        "user": 23,
+        "progression": 46,
+        "design": 59,
+        "resource": 91,
+        "session_end": 23
+      },
+      "by_country": {
+        "TH": 35,
+        "FR": 7,
+        "BR": 21,
+        "VN": 49,
+        "JP": 20,
+        "DE": 29,
+        "US": 71,
+        "GB": 10
+      },
+      "wall_clock_sec": 0.6629762649536133,
+      "errors": 0,
+      "revenue_minor": 0
+    },
+    {
+      "date": "2026-08-07",
+      "active_players": 17,
+      "new_sessions": 17,
+      "events_generated": 181,
+      "batches_flushed": 1,
+      "by_category": {
+        "user": 17,
+        "progression": 34,
+        "design": 49,
+        "resource": 64,
+        "session_end": 17
+      },
+      "by_country": {
+        "VN": 54,
+        "US": 10,
+        "JP": 23,
+        "DE": 24,
+        "GB": 42,
+        "KR": 28
+      },
+      "wall_clock_sec": 0.505098819732666,
+      "errors": 0,
+      "revenue_minor": 0
+    },
+    {
+      "date": "2026-08-08",
+      "active_players": 13,
+      "new_sessions": 13,
+      "events_generated": 133,
+      "batches_flushed": 1,
+      "by_category": {
+        "user": 13,
+        "progression": 26,
+        "resource": 44,
+        "session_end": 13,
+        "design": 37
+      },
+      "by_country": {
+        "FR": 6,
+        "DE": 18,
+        "VN": 50,
+        "BR": 10,
+        "GB": 22,
+        "US": 27
+      },
+      "wall_clock_sec": 0.4076707363128662,
+      "errors": 0,
+      "revenue_minor": 0
+    },
+    {
+      "date": "2026-08-09",
+      "active_players": 17,
+      "new_sessions": 17,
+      "events_generated": 191,
+      "batches_flushed": 1,
+      "by_category": {
+        "user": 17,
+        "progression": 34,
+        "design": 57,
+        "resource": 64,
+        "session_end": 17,
+        "business": 2
+      },
+      "by_country": {
+        "TH": 39,
+        "FR": 8,
+        "BR": 13,
+        "VN": 47,
+        "KR": 13,
+        "DE": 12,
+        "US": 52,
+        "JP": 7
+      },
+      "wall_clock_sec": 0.6372194290161133,
+      "errors": 0,
+      "revenue_minor": 5198
+    },
+    {
+      "date": "2026-08-10",
+      "active_players": 14,
+      "new_sessions": 14,
+      "events_generated": 151,
+      "batches_flushed": 1,
+      "by_category": {
+        "user": 14,
+        "progression": 28,
+        "design": 34,
+        "resource": 61,
+        "session_end": 14
+      },
+      "by_country": {
+        "TH": 21,
+        "VN": 58,
+        "JP": 22,
+        "BR": 24,
+        "GB": 14,
+        "KR": 12
+      },
+      "wall_clock_sec": 0.48082947731018066,
+      "errors": 0,
+      "revenue_minor": 0
+    },
+    {
+      "date": "2026-08-11",
+      "active_players": 11,
+      "new_sessions": 11,
+      "events_generated": 118,
+      "batches_flushed": 1,
+      "by_category": {
+        "user": 11,
+        "progression": 22,
+        "design": 31,
+        "resource": 43,
+        "session_end": 11
+      },
+      "by_country": {
+        "TH": 8,
+        "BR": 25,
+        "JP": 9,
+        "KR": 27,
+        "US": 18,
+        "VN": 31
+      },
+      "wall_clock_sec": 0.5501160621643066,
+      "errors": 0,
+      "revenue_minor": 0
+    },
+    {
+      "date": "2026-08-12",
+      "active_players": 15,
+      "new_sessions": 15,
+      "events_generated": 169,
+      "batches_flushed": 1,
+      "by_category": {
+        "user": 15,
+        "progression": 30,
+        "design": 47,
+        "resource": 62,
+        "session_end": 15
+      },
+      "by_country": {
+        "VN": 80,
+        "TH": 36,
+        "KR": 24,
+        "BR": 20,
+        "JP": 9
+      },
+      "wall_clock_sec": 0.9322261810302734,
+      "errors": 0,
+      "revenue_minor": 0
+    },
+    {
+      "date": "2026-08-13",
+      "active_players": 13,
+      "new_sessions": 13,
+      "events_generated": 137,
+      "batches_flushed": 1,
+      "by_category": {
+        "user": 13,
+        "progression": 26,
+        "design": 30,
+        "resource": 55,
+        "session_end": 13
+      },
+      "by_country": {
+        "TH": 14,
+        "VN": 41,
+        "US": 41,
+        "GB": 30,
+        "FR": 11
+      },
+      "wall_clock_sec": 0.4652087688446045,
+      "errors": 0,
+      "revenue_minor": 0
+    },
+    {
+      "date": "2026-08-14",
+      "active_players": 11,
+      "new_sessions": 11,
+      "events_generated": 118,
+      "batches_flushed": 1,
+      "by_category": {
+        "user": 11,
+        "progression": 22,
+        "design": 26,
+        "resource": 48,
+        "session_end": 11
+      },
+      "by_country": {
+        "TH": 12,
+        "VN": 40,
+        "US": 33,
+        "KR": 8,
+        "BR": 16,
+        "JP": 9
+      },
+      "wall_clock_sec": 0.5412387847900391,
+      "errors": 0,
+      "revenue_minor": 0
+    },
+    {
+      "date": "2026-08-15",
+      "active_players": 18,
+      "new_sessions": 18,
+      "events_generated": 186,
+      "batches_flushed": 1,
+      "by_category": {
+        "user": 18,
+        "progression": 36,
+        "design": 43,
+        "resource": 71,
+        "session_end": 18
+      },
+      "by_country": {
+        "GB": 44,
+        "KR": 42,
+        "DE": 10,
+        "VN": 61,
+        "US": 29
+      },
+      "wall_clock_sec": 0.7929873466491699,
+      "errors": 0,
+      "revenue_minor": 0
+    },
+    {
+      "date": "2026-08-16",
+      "active_players": 10,
+      "new_sessions": 10,
+      "events_generated": 98,
+      "batches_flushed": 1,
+      "by_category": {
+        "user": 10,
+        "progression": 20,
+        "design": 21,
+        "resource": 37,
+        "session_end": 10
+      },
+      "by_country": {
+        "VN": 30,
+        "TH": 6,
+        "KR": 19,
+        "BR": 12,
+        "GB": 8,
+        "US": 23
+      },
+      "wall_clock_sec": 0.3564949035644531,
+      "errors": 0,
+      "revenue_minor": 0
+    },
+    {
+      "date": "2026-08-17",
+      "active_players": 14,
+      "new_sessions": 14,
+      "events_generated": 151,
+      "batches_flushed": 1,
+      "by_category": {
+        "user": 14,
+        "progression": 28,
+        "design": 39,
+        "resource": 56,
+        "session_end": 14
+      },
+      "by_country": {
+        "VN": 54,
+        "TH": 9,
+        "DE": 19,
+        "BR": 11,
+        "KR": 19,
+        "ID": 15,
+        "JP": 24
+      },
+      "wall_clock_sec": 0.56681227684021,
+      "errors": 0,
+      "revenue_minor": 0
+    },
+    {
+      "date": "2026-08-18",
+      "active_players": 18,
+      "new_sessions": 18,
+      "events_generated": 187,
+      "batches_flushed": 1,
+      "by_category": {
+        "user": 18,
+        "progression": 36,
+        "design": 45,
+        "resource": 69,
+        "session_end": 18,
+        "business": 1
+      },
+      "by_country": {
+        "VN": 56,
+        "BR": 47,
+        "ID": 11,
+        "JP": 9,
+        "KR": 15,
+        "GB": 20,
+        "US": 19,
+        "TH": 10
+      },
+      "wall_clock_sec": 0.5625207424163818,
+      "errors": 0,
+      "revenue_minor": 4999
+    },
+    {
+      "date": "2026-08-19",
+      "active_players": 14,
+      "new_sessions": 14,
+      "events_generated": 163,
+      "batches_flushed": 1,
+      "by_category": {
+        "user": 14,
+        "progression": 28,
+        "design": 49,
+        "resource": 58,
+        "session_end": 14
+      },
+      "by_country": {
+        "VN": 64,
+        "TH": 11,
+        "KR": 29,
+        "GB": 13,
+        "DE": 12,
+        "JP": 10,
+        "US": 24
+      },
+      "wall_clock_sec": 1.1425774097442627,
+      "errors": 0,
+      "revenue_minor": 0
+    },
+    {
+      "date": "2026-08-20",
+      "active_players": 10,
+      "new_sessions": 10,
+      "events_generated": 102,
+      "batches_flushed": 1,
+      "by_category": {
+        "user": 10,
+        "progression": 20,
+        "design": 26,
+        "resource": 36,
+        "session_end": 10
+      },
+      "by_country": {
+        "VN": 49,
+        "ID": 10,
+        "US": 35,
+        "FR": 8
+      },
+      "wall_clock_sec": 1.2707293033599854,
+      "errors": 0,
+      "revenue_minor": 0
+    },
+    {
+      "date": "2026-08-21",
+      "active_players": 11,
+      "new_sessions": 11,
+      "events_generated": 122,
+      "batches_flushed": 1,
+      "by_category": {
+        "user": 11,
+        "progression": 22,
+        "design": 28,
+        "resource": 50,
+        "session_end": 11
+      },
+      "by_country": {
+        "VN": 41,
+        "KR": 22,
+        "GB": 24,
+        "DE": 13,
+        "JP": 13,
+        "US": 9
+      },
+      "wall_clock_sec": 0.39629125595092773,
+      "errors": 0,
+      "revenue_minor": 0
+    },
+    {
+      "date": "2026-08-22",
+      "active_players": 13,
+      "new_sessions": 13,
+      "events_generated": 145,
+      "batches_flushed": 1,
+      "by_category": {
+        "user": 13,
+        "progression": 26,
+        "design": 41,
+        "resource": 52,
+        "session_end": 13
+      },
+      "by_country": {
+        "VN": 49,
+        "DE": 15,
+        "JP": 13,
+        "KR": 11,
+        "BR": 11,
+        "US": 27,
+        "GB": 11,
+        "TH": 8
+      },
+      "wall_clock_sec": 0.440213680267334,
+      "errors": 0,
+      "revenue_minor": 0
+    },
+    {
+      "date": "2026-08-23",
+      "active_players": 16,
+      "new_sessions": 16,
+      "events_generated": 167,
+      "batches_flushed": 1,
+      "by_category": {
+        "user": 16,
+        "progression": 32,
+        "design": 39,
+        "resource": 64,
+        "session_end": 16
+      },
+      "by_country": {
+        "TH": 19,
+        "VN": 82,
+        "DE": 21,
+        "JP": 10,
+        "GB": 11,
+        "US": 24
+      },
+      "wall_clock_sec": 0.4941751956939697,
+      "errors": 0,
+      "revenue_minor": 0
+    },
+    {
+      "date": "2026-08-24",
+      "active_players": 9,
+      "new_sessions": 9,
+      "events_generated": 95,
+      "batches_flushed": 1,
+      "by_category": {
+        "user": 9,
+        "progression": 18,
+        "design": 26,
+        "resource": 33,
+        "session_end": 9
+      },
+      "by_country": {
+        "TH": 10,
+        "VN": 28,
+        "JP": 13,
+        "DE": 19,
+        "GB": 15,
+        "US": 10
+      },
+      "wall_clock_sec": 0.39229440689086914,
+      "errors": 0,
+      "revenue_minor": 0
+    },
+    {
+      "date": "2026-08-25",
+      "active_players": 8,
+      "new_sessions": 8,
+      "events_generated": 99,
+      "batches_flushed": 1,
+      "by_category": {
+        "user": 8,
+        "progression": 16,
+        "design": 31,
+        "resource": 36,
+        "session_end": 8
+      },
+      "by_country": {
+        "KR": 9,
+        "BR": 16,
+        "GB": 12,
+        "US": 48,
+        "TH": 14
+      },
+      "wall_clock_sec": 0.39827561378479004,
+      "errors": 0,
+      "revenue_minor": 0
+    },
+    {
+      "date": "2026-08-26",
+      "active_players": 11,
+      "new_sessions": 11,
+      "events_generated": 111,
+      "batches_flushed": 1,
+      "by_category": {
+        "user": 11,
+        "progression": 20,
+        "design": 26,
+        "resource": 43,
+        "session_end": 11
+      },
+      "by_country": {
+        "VN": 19,
+        "ID": 10,
+        "JP": 9,
+        "DE": 14,
+        "KR": 24,
+        "FR": 12,
+        "US": 23
+      },
+      "wall_clock_sec": 0.40244483947753906,
+      "errors": 0,
+      "revenue_minor": 0
+    },
+    {
+      "date": "2026-08-27",
+      "active_players": 11,
+      "new_sessions": 11,
+      "events_generated": 127,
+      "batches_flushed": 1,
+      "by_category": {
+        "user": 11,
+        "progression": 22,
+        "design": 32,
+        "resource": 51,
+        "session_end": 11
+      },
+      "by_country": {
+        "TH": 15,
+        "VN": 76,
+        "JP": 10,
+        "BR": 14,
+        "US": 12
+      },
+      "wall_clock_sec": 0.5144016742706299,
+      "errors": 0,
+      "revenue_minor": 0
+    },
+    {
+      "date": "2026-08-28",
+      "active_players": 16,
+      "new_sessions": 16,
+      "events_generated": 174,
+      "batches_flushed": 1,
+      "by_category": {
+        "user": 16,
+        "progression": 32,
+        "design": 41,
+        "resource": 69,
+        "session_end": 16
+      },
+      "by_country": {
+        "TH": 26,
+        "VN": 101,
+        "DE": 11,
+        "ID": 13,
+        "US": 23
+      },
+      "wall_clock_sec": 0.48652124404907227,
+      "errors": 0,
+      "revenue_minor": 0
+    },
+    {
+      "date": "2026-08-29",
+      "active_players": 16,
+      "new_sessions": 16,
+      "events_generated": 180,
+      "batches_flushed": 1,
+      "by_category": {
+        "user": 16,
+        "progression": 32,
+        "design": 51,
+        "resource": 64,
+        "session_end": 16,
+        "business": 1
+      },
+      "by_country": {
+        "FR": 10,
+        "VN": 66,
+        "TH": 28,
+        "US": 32,
+        "KR": 20,
+        "GB": 13,
+        "DE": 11
+      },
+      "wall_clock_sec": 0.8256726264953613,
+      "errors": 0,
+      "revenue_minor": 99
+    },
+    {
+      "date": "2026-08-30",
+      "active_players": 15,
+      "new_sessions": 15,
+      "events_generated": 155,
+      "batches_flushed": 1,
+      "by_category": {
+        "user": 15,
+        "progression": 30,
+        "design": 39,
+        "resource": 56,
+        "session_end": 15
+      },
+      "by_country": {
+        "VN": 57,
+        "US": 61,
+        "KR": 7,
+        "DE": 19,
+        "GB": 11
+      },
+      "wall_clock_sec": 0.4425680637359619,
+      "errors": 0,
+      "revenue_minor": 0
+    },
+    {
+      "date": "2026-08-31",
+      "active_players": 27,
+      "new_sessions": 27,
+      "events_generated": 294,
+      "batches_flushed": 1,
+      "by_category": {
+        "user": 27,
+        "progression": 53,
+        "design": 82,
+        "resource": 105,
+        "session_end": 27
+      },
+      "by_country": {
+        "VN": 109,
+        "TH": 45,
+        "BR": 10,
+        "ID": 11,
+        "JP": 28,
+        "US": 36,
+        "KR": 22,
+        "GB": 15,
+        "DE": 9,
+        "FR": 9
+      },
+      "wall_clock_sec": 0.941990852355957,
+      "errors": 0,
+      "revenue_minor": 0
+    },
+    {
+      "date": "2026-09-01",
+      "active_players": 24,
+      "new_sessions": 24,
+      "events_generated": 250,
+      "batches_flushed": 1,
+      "by_category": {
+        "user": 24,
+        "progression": 48,
+        "design": 64,
+        "resource": 90,
+        "session_end": 24
+      },
+      "by_country": {
+        "KR": 42,
+        "VN": 73,
+        "DE": 7,
+        "US": 60,
+        "JP": 23,
+        "GB": 25,
+        "BR": 20
+      },
+      "wall_clock_sec": 1.5177481174468994,
+      "errors": 0,
+      "revenue_minor": 0
+    },
+    {
+      "date": "2026-09-02",
+      "active_players": 25,
+      "new_sessions": 25,
+      "events_generated": 269,
+      "batches_flushed": 1,
+      "by_category": {
+        "user": 25,
+        "progression": 49,
+        "resource": 108,
+        "session_end": 25,
+        "design": 62
+      },
+      "by_country": {
+        "VN": 112,
+        "JP": 20,
+        "US": 55,
+        "KR": 19,
+        "GB": 51,
+        "TH": 12
+      },
+      "wall_clock_sec": 0.752936840057373,
+      "errors": 0,
+      "revenue_minor": 0
+    },
+    {
+      "date": "2026-09-03",
+      "active_players": 21,
+      "new_sessions": 21,
+      "events_generated": 235,
+      "batches_flushed": 1,
+      "by_category": {
+        "user": 21,
+        "progression": 42,
+        "resource": 88,
+        "session_end": 21,
+        "design": 62,
+        "business": 1
+      },
+      "by_country": {
+        "FR": 8,
+        "VN": 55,
+        "TH": 20,
+        "BR": 24,
+        "JP": 9,
+        "US": 74,
+        "KR": 25,
+        "GB": 20
+      },
+      "wall_clock_sec": 0.6468906402587891,
+      "errors": 0,
+      "revenue_minor": 136620
+    },
+    {
+      "date": "2026-09-04",
+      "active_players": 22,
+      "new_sessions": 22,
+      "events_generated": 227,
+      "batches_flushed": 1,
+      "by_category": {
+        "user": 22,
+        "progression": 44,
+        "design": 56,
+        "resource": 83,
+        "session_end": 22
+      },
+      "by_country": {
+        "VN": 107,
+        "TH": 8,
+        "JP": 13,
+        "US": 30,
+        "KR": 26,
+        "BR": 27,
+        "GB": 16
+      },
+      "wall_clock_sec": 0.9143407344818115,
+      "errors": 0,
+      "revenue_minor": 0
+    },
+    {
+      "date": "2026-09-05",
+      "active_players": 26,
+      "new_sessions": 26,
+      "events_generated": 282,
+      "batches_flushed": 1,
+      "by_category": {
+        "user": 26,
+        "progression": 52,
+        "design": 69,
+        "resource": 109,
+        "session_end": 26
+      },
+      "by_country": {
+        "VN": 132,
+        "TH": 34,
+        "BR": 22,
+        "US": 42,
+        "JP": 32,
+        "ID": 7,
+        "GB": 13
+      },
+      "wall_clock_sec": 1.1058743000030518,
+      "errors": 0,
+      "revenue_minor": 0
+    },
+    {
+      "date": "2026-09-06",
+      "active_players": 29,
+      "new_sessions": 29,
+      "events_generated": 304,
+      "batches_flushed": 1,
+      "by_category": {
+        "user": 29,
+        "progression": 58,
+        "design": 71,
+        "resource": 117,
+        "session_end": 29
+      },
+      "by_country": {
+        "TH": 57,
+        "VN": 64,
+        "BR": 29,
+        "US": 67,
+        "GB": 32,
+        "KR": 37,
+        "DE": 9,
+        "JP": 9
+      },
+      "wall_clock_sec": 1.0270392894744873,
+      "errors": 0,
+      "revenue_minor": 0
+    },
+    {
+      "date": "2026-09-07",
+      "active_players": 24,
+      "new_sessions": 24,
+      "events_generated": 272,
+      "batches_flushed": 1,
+      "by_category": {
+        "user": 24,
+        "progression": 48,
+        "design": 69,
+        "resource": 107,
+        "session_end": 24
+      },
+      "by_country": {
+        "VN": 122,
+        "TH": 11,
+        "BR": 40,
+        "JP": 28,
+        "GB": 32,
+        "KR": 8,
+        "US": 31
+      },
+      "wall_clock_sec": 1.414961814880371,
+      "errors": 0,
+      "revenue_minor": 0
+    },
+    {
+      "date": "2026-09-08",
+      "active_players": 26,
+      "new_sessions": 26,
+      "events_generated": 276,
+      "batches_flushed": 1,
+      "by_category": {
+        "user": 26,
+        "progression": 52,
+        "design": 71,
+        "resource": 101,
+        "session_end": 26
+      },
+      "by_country": {
+        "VN": 97,
+        "TH": 10,
+        "ID": 21,
+        "US": 55,
+        "GB": 37,
+        "JP": 24,
+        "DE": 9,
+        "KR": 11,
+        "BR": 12
+      },
+      "wall_clock_sec": 0.7565994262695312,
+      "errors": 0,
+      "revenue_minor": 0
+    },
+    {
+      "date": "2026-09-09",
+      "active_players": 25,
+      "new_sessions": 25,
+      "events_generated": 256,
+      "batches_flushed": 1,
+      "by_category": {
+        "user": 25,
+        "progression": 50,
+        "design": 61,
+        "resource": 95,
+        "session_end": 25
+      },
+      "by_country": {
+        "TH": 23,
+        "VN": 91,
+        "DE": 7,
+        "ID": 18,
+        "KR": 49,
+        "GB": 9,
+        "BR": 18,
+        "US": 23,
+        "JP": 9,
+        "FR": 9
+      },
+      "wall_clock_sec": 1.3305609226226807,
+      "errors": 0,
+      "revenue_minor": 0
+    },
+    {
+      "date": "2026-09-10",
+      "active_players": 23,
+      "new_sessions": 23,
+      "events_generated": 245,
+      "batches_flushed": 1,
+      "by_category": {
+        "user": 23,
+        "progression": 46,
+        "design": 67,
+        "resource": 86,
+        "session_end": 23
+      },
+      "by_country": {
+        "GB": 31,
+        "TH": 26,
+        "VN": 70,
+        "BR": 25,
+        "DE": 23,
+        "US": 27,
+        "ID": 8,
+        "JP": 22,
+        "KR": 13
+      },
+      "wall_clock_sec": 0.7476499080657959,
+      "errors": 0,
+      "revenue_minor": 0
+    },
+    {
+      "date": "2026-09-11",
+      "active_players": 33,
+      "new_sessions": 33,
+      "events_generated": 366,
+      "batches_flushed": 1,
+      "by_category": {
+        "user": 33,
+        "progression": 65,
+        "design": 93,
+        "resource": 142,
+        "session_end": 33
+      },
+      "by_country": {
+        "VN": 157,
+        "TH": 21,
+        "FR": 11,
+        "DE": 19,
+        "KR": 44,
+        "ID": 11,
+        "JP": 24,
+        "BR": 24,
+        "GB": 9,
+        "US": 46
+      },
+      "wall_clock_sec": 1.3682451248168945,
+      "errors": 0,
+      "revenue_minor": 0
+    },
+    {
+      "date": "2026-09-12",
+      "active_players": 27,
+      "new_sessions": 27,
+      "events_generated": 279,
+      "batches_flushed": 1,
+      "by_category": {
+        "user": 27,
+        "progression": 54,
+        "design": 66,
+        "resource": 105,
+        "session_end": 27
+      },
+      "by_country": {
+        "TH": 8,
+        "FR": 10,
+        "VN": 98,
+        "BR": 9,
+        "DE": 18,
+        "JP": 44,
+        "KR": 40,
+        "GB": 14,
+        "US": 38
+      },
+      "wall_clock_sec": 1.4860649108886719,
+      "errors": 0,
+      "revenue_minor": 0
+    },
+    {
+      "date": "2026-09-13",
+      "active_players": 31,
+      "new_sessions": 31,
+      "events_generated": 350,
+      "batches_flushed": 1,
+      "by_category": {
+        "user": 31,
+        "progression": 62,
+        "design": 103,
+        "resource": 123,
+        "session_end": 31
+      },
+      "by_country": {
+        "KR": 49,
+        "VN": 127,
+        "TH": 25,
+        "ID": 13,
+        "JP": 10,
+        "DE": 11,
+        "US": 78,
+        "BR": 26,
+        "GB": 11
+      },
+      "wall_clock_sec": 1.5548322200775146,
+      "errors": 0,
+      "revenue_minor": 0
+    },
+    {
+      "date": "2026-09-14",
+      "active_players": 29,
+      "new_sessions": 29,
+      "events_generated": 300,
+      "batches_flushed": 1,
+      "by_category": {
+        "user": 29,
+        "progression": 58,
+        "design": 84,
+        "resource": 100,
+        "session_end": 29
+      },
+      "by_country": {
+        "TH": 22,
+        "FR": 17,
+        "VN": 96,
+        "BR": 30,
+        "JP": 11,
+        "DE": 15,
+        "US": 68,
+        "KR": 19,
+        "GB": 22
+      },
+      "wall_clock_sec": 1.0009584426879883,
+      "errors": 0,
+      "revenue_minor": 0
+    },
+    {
+      "date": "2026-09-15",
+      "active_players": 27,
+      "new_sessions": 27,
+      "events_generated": 294,
+      "batches_flushed": 1,
+      "by_category": {
+        "user": 27,
+        "progression": 54,
+        "design": 73,
+        "resource": 113,
+        "session_end": 27
+      },
+      "by_country": {
+        "VN": 109,
+        "DE": 8,
+        "US": 64,
+        "ID": 15,
+        "GB": 32,
+        "KR": 22,
+        "BR": 16,
+        "JP": 9,
+        "FR": 8,
+        "TH": 11
+      },
+      "wall_clock_sec": 1.010803461074829,
+      "errors": 0,
+      "revenue_minor": 0
+    },
+    {
+      "date": "2026-09-16",
+      "active_players": 32,
+      "new_sessions": 32,
+      "events_generated": 330,
+      "batches_flushed": 1,
+      "by_category": {
+        "user": 32,
+        "progression": 64,
+        "design": 86,
+        "resource": 116,
+        "session_end": 32
+      },
+      "by_country": {
+        "TH": 28,
+        "BR": 8,
+        "DE": 22,
+        "VN": 129,
+        "US": 53,
+        "ID": 10,
+        "JP": 18,
+        "KR": 19,
+        "GB": 34,
+        "FR": 9
+      },
+      "wall_clock_sec": 1.1154274940490723,
+      "errors": 0,
+      "revenue_minor": 0
+    },
+    {
+      "date": "2026-09-17",
+      "active_players": 29,
+      "new_sessions": 29,
+      "events_generated": 335,
+      "batches_flushed": 1,
+      "by_category": {
+        "user": 29,
+        "progression": 58,
+        "design": 95,
+        "resource": 124,
+        "session_end": 29
+      },
+      "by_country": {
+        "TH": 28,
+        "VN": 126,
+        "BR": 27,
+        "DE": 23,
+        "KR": 36,
+        "GB": 25,
+        "US": 70
+      },
+      "wall_clock_sec": 1.0651891231536865,
+      "errors": 0,
+      "revenue_minor": 0
+    },
+    {
+      "date": "2026-09-18",
+      "active_players": 25,
+      "new_sessions": 25,
+      "events_generated": 277,
+      "batches_flushed": 1,
+      "by_category": {
+        "user": 25,
+        "progression": 50,
+        "design": 74,
+        "resource": 102,
+        "session_end": 25,
+        "business": 1
+      },
+      "by_country": {
+        "KR": 47,
+        "TH": 22,
+        "VN": 69,
+        "BR": 25,
+        "ID": 12,
+        "US": 53,
+        "JP": 18,
+        "DE": 22,
+        "FR": 9
+      },
+      "wall_clock_sec": 0.7897632122039795,
+      "errors": 0,
+      "revenue_minor": 784843
+    },
+    {
+      "date": "2026-09-19",
+      "active_players": 25,
+      "new_sessions": 25,
+      "events_generated": 259,
+      "batches_flushed": 1,
+      "by_category": {
+        "user": 25,
+        "progression": 50,
+        "design": 68,
+        "resource": 91,
+        "session_end": 25
+      },
+      "by_country": {
+        "VN": 93,
+        "TH": 22,
+        "JP": 30,
+        "US": 58,
+        "KR": 19,
+        "BR": 13,
+        "GB": 24
+      },
+      "wall_clock_sec": 1.037299394607544,
+      "errors": 0,
+      "revenue_minor": 0
+    },
+    {
+      "date": "2026-09-20",
+      "active_players": 22,
+      "new_sessions": 22,
+      "events_generated": 239,
+      "batches_flushed": 1,
+      "by_category": {
+        "user": 22,
+        "progression": 44,
+        "design": 55,
+        "resource": 96,
+        "session_end": 22
+      },
+      "by_country": {
+        "VN": 63,
+        "ID": 13,
+        "JP": 11,
+        "US": 49,
+        "KR": 31,
+        "DE": 24,
+        "BR": 11,
+        "GB": 23,
+        "TH": 14
+      },
+      "wall_clock_sec": 1.290328025817871,
+      "errors": 0,
+      "revenue_minor": 0
+    },
+    {
+      "date": "2026-09-21",
+      "active_players": 20,
+      "new_sessions": 20,
+      "events_generated": 228,
+      "batches_flushed": 1,
+      "by_category": {
+        "user": 20,
+        "progression": 39,
+        "design": 55,
+        "resource": 94,
+        "session_end": 20
+      },
+      "by_country": {
+        "TH": 29,
+        "VN": 93,
+        "BR": 23,
+        "JP": 10,
+        "DE": 12,
+        "KR": 12,
+        "US": 35,
+        "GB": 14
+      },
+      "wall_clock_sec": 0.5841617584228516,
+      "errors": 0,
+      "revenue_minor": 0
+    },
+    {
+      "date": "2026-09-22",
+      "active_players": 23,
+      "new_sessions": 23,
+      "events_generated": 234,
+      "batches_flushed": 1,
+      "by_category": {
+        "user": 23,
+        "progression": 46,
+        "design": 57,
+        "resource": 85,
+        "session_end": 23
+      },
+      "by_country": {
+        "VN": 84,
+        "TH": 10,
+        "DE": 34,
+        "US": 28,
+        "KR": 17,
+        "GB": 33,
+        "JP": 8,
+        "FR": 12,
+        "ID": 8
+      },
+      "wall_clock_sec": 0.4649622440338135,
+      "errors": 0,
+      "revenue_minor": 0
+    },
+    {
+      "date": "2026-09-23",
+      "active_players": 23,
+      "new_sessions": 23,
+      "events_generated": 259,
+      "batches_flushed": 1,
+      "by_category": {
+        "user": 23,
+        "progression": 46,
+        "design": 67,
+        "resource": 100,
+        "session_end": 23
+      },
+      "by_country": {
+        "TH": 10,
+        "VN": 92,
+        "BR": 37,
+        "KR": 28,
+        "US": 53,
+        "GB": 39
+      },
+      "wall_clock_sec": 0.5179874897003174,
+      "errors": 0,
+      "revenue_minor": 0
+    },
+    {
+      "date": "2026-09-24",
+      "active_players": 31,
+      "new_sessions": 31,
+      "events_generated": 342,
+      "batches_flushed": 1,
+      "by_category": {
+        "user": 31,
+        "progression": 62,
+        "design": 84,
+        "resource": 134,
+        "session_end": 31
+      },
+      "by_country": {
+        "TH": 34,
+        "VN": 110,
+        "BR": 31,
+        "DE": 10,
+        "ID": 17,
+        "US": 61,
+        "JP": 43,
+        "GB": 13,
+        "FR": 10,
+        "KR": 13
+      },
+      "wall_clock_sec": 0.9792206287384033,
+      "errors": 0,
+      "revenue_minor": 0
+    },
+    {
+      "date": "2026-09-25",
+      "active_players": 26,
+      "new_sessions": 26,
+      "events_generated": 281,
+      "batches_flushed": 1,
+      "by_category": {
+        "user": 26,
+        "progression": 52,
+        "design": 67,
+        "resource": 110,
+        "session_end": 26
+      },
+      "by_country": {
+        "VN": 100,
+        "FR": 10,
+        "TH": 20,
+        "DE": 12,
+        "JP": 33,
+        "GB": 19,
+        "KR": 31,
+        "BR": 12,
+        "US": 44
+      },
+      "wall_clock_sec": 0.893578290939331,
+      "errors": 0,
+      "revenue_minor": 0
+    },
+    {
+      "date": "2026-09-26",
+      "active_players": 22,
+      "new_sessions": 22,
+      "events_generated": 236,
+      "batches_flushed": 1,
+      "by_category": {
+        "user": 22,
+        "progression": 44,
+        "design": 58,
+        "resource": 90,
+        "session_end": 22
+      },
+      "by_country": {
+        "TH": 21,
+        "FR": 7,
+        "VN": 58,
+        "BR": 23,
+        "DE": 21,
+        "ID": 11,
+        "KR": 19,
+        "US": 44,
+        "GB": 21,
+        "JP": 11
+      },
+      "wall_clock_sec": 1.2768735885620117,
+      "errors": 0,
+      "revenue_minor": 0
+    },
+    {
+      "date": "2026-09-27",
+      "active_players": 28,
+      "new_sessions": 28,
+      "events_generated": 304,
+      "batches_flushed": 1,
+      "by_category": {
+        "user": 28,
+        "progression": 55,
+        "design": 84,
+        "resource": 109,
+        "session_end": 28
+      },
+      "by_country": {
+        "TH": 17,
+        "FR": 20,
+        "VN": 82,
+        "DE": 20,
+        "US": 87,
+        "JP": 10,
+        "KR": 11,
+        "BR": 11,
+        "GB": 46
+      },
+      "wall_clock_sec": 0.6503932476043701,
+      "errors": 0,
+      "revenue_minor": 0
+    },
+    {
+      "date": "2026-09-28",
+      "active_players": 21,
+      "new_sessions": 21,
+      "events_generated": 229,
+      "batches_flushed": 1,
+      "by_category": {
+        "user": 21,
+        "progression": 42,
+        "design": 56,
+        "resource": 89,
+        "session_end": 21
+      },
+      "by_country": {
+        "KR": 35,
+        "TH": 22,
+        "VN": 87,
+        "BR": 24,
+        "DE": 15,
+        "ID": 11,
+        "JP": 9,
+        "GB": 13,
+        "US": 13
+      },
+      "wall_clock_sec": 0.4473748207092285,
+      "errors": 0,
+      "revenue_minor": 0
+    },
+    {
+      "date": "2026-09-29",
+      "active_players": 29,
+      "new_sessions": 29,
+      "events_generated": 320,
+      "batches_flushed": 1,
+      "by_category": {
+        "user": 29,
+        "progression": 58,
+        "design": 82,
+        "resource": 122,
+        "session_end": 29
+      },
+      "by_country": {
+        "VN": 122,
+        "TH": 31,
+        "KR": 66,
+        "ID": 9,
+        "JP": 15,
+        "US": 53,
+        "GB": 12,
+        "FR": 12
+      },
+      "wall_clock_sec": 1.0006194114685059,
+      "errors": 0,
+      "revenue_minor": 0
+    }
+  ],
+  "wall_clock_sec": 63.498,
+  "metrics": {
+    "avg_dau": 21.18,
+    "arpu_usd": 93.2058,
+    "arppu_usd": 1331.5114,
+    "events_per_second": 216.78,
+    "avg_events_per_session": 10.83
+  }
+}

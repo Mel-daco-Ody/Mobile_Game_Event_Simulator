@@ -1,0 +1,177 @@
+{
+  "start_date": "2026-09-22",
+  "end_date": "2026-09-28",
+  "n_days": 7,
+  "total_players": 500,
+  "total_sessions": 914,
+  "total_events": 10169,
+  "total_batches": 7,
+  "total_revenue_minor": 0,
+  "total_revenue_usd": 0.0,
+  "by_category": {
+    "user": 914,
+    "progression": 1828,
+    "ad": 1092,
+    "resource": 3730,
+    "session_end": 914,
+    "design": 1687,
+    "business": 2,
+    "error": 2
+  },
+  "by_country": {
+    "unknown": 10169
+  },
+  "by_day": [
+    {
+      "date": "2026-09-22",
+      "active_players": 232,
+      "new_sessions": 232,
+      "events_generated": 2616,
+      "batches_flushed": 1,
+      "by_category": {
+        "user": 232,
+        "progression": 464,
+        "ad": 306,
+        "resource": 942,
+        "session_end": 232,
+        "design": 440
+      },
+      "by_country": {
+        "unknown": 2616
+      },
+      "wall_clock_sec": 28.586832284927368,
+      "errors": 0
+    },
+    {
+      "date": "2026-09-23",
+      "active_players": 190,
+      "new_sessions": 190,
+      "events_generated": 2086,
+      "batches_flushed": 1,
+      "by_category": {
+        "user": 190,
+        "progression": 380,
+        "design": 328,
+        "resource": 790,
+        "session_end": 190,
+        "ad": 207,
+        "business": 1
+      },
+      "by_country": {
+        "unknown": 2086
+      },
+      "wall_clock_sec": 18.98486828804016,
+      "errors": 0
+    },
+    {
+      "date": "2026-09-24",
+      "active_players": 120,
+      "new_sessions": 120,
+      "events_generated": 1347,
+      "batches_flushed": 1,
+      "by_category": {
+        "user": 120,
+        "progression": 240,
+        "resource": 499,
+        "session_end": 120,
+        "design": 222,
+        "ad": 146
+      },
+      "by_country": {
+        "unknown": 1347
+      },
+      "wall_clock_sec": 5.661486864089966,
+      "errors": 0
+    },
+    {
+      "date": "2026-09-25",
+      "active_players": 124,
+      "new_sessions": 124,
+      "events_generated": 1385,
+      "batches_flushed": 1,
+      "by_category": {
+        "user": 124,
+        "progression": 248,
+        "design": 242,
+        "resource": 505,
+        "session_end": 124,
+        "ad": 140,
+        "business": 1,
+        "error": 1
+      },
+      "by_country": {
+        "unknown": 1385
+      },
+      "wall_clock_sec": 6.342038869857788,
+      "errors": 0
+    },
+    {
+      "date": "2026-09-26",
+      "active_players": 89,
+      "new_sessions": 89,
+      "events_generated": 953,
+      "batches_flushed": 1,
+      "by_category": {
+        "user": 89,
+        "progression": 178,
+        "design": 141,
+        "ad": 93,
+        "resource": 362,
+        "session_end": 89,
+        "error": 1
+      },
+      "by_country": {
+        "unknown": 953
+      },
+      "wall_clock_sec": 3.048435688018799,
+      "errors": 0
+    },
+    {
+      "date": "2026-09-27",
+      "active_players": 89,
+      "new_sessions": 89,
+      "events_generated": 979,
+      "batches_flushed": 1,
+      "by_category": {
+        "user": 89,
+        "progression": 178,
+        "design": 174,
+        "resource": 347,
+        "session_end": 89,
+        "ad": 102
+      },
+      "by_country": {
+        "unknown": 979
+      },
+      "wall_clock_sec": 3.149472236633301,
+      "errors": 0
+    },
+    {
+      "date": "2026-09-28",
+      "active_players": 70,
+      "new_sessions": 70,
+      "events_generated": 803,
+      "batches_flushed": 1,
+      "by_category": {
+        "user": 70,
+        "progression": 140,
+        "design": 140,
+        "resource": 285,
+        "session_end": 70,
+        "ad": 98
+      },
+      "by_country": {
+        "unknown": 803
+      },
+      "wall_clock_sec": 2.105623483657837,
+      "errors": 0
+    }
+  ],
+  "wall_clock_sec": 67.879,
+  "metrics": {
+    "avg_dau": 130.57,
+    "arpu_usd": 0.0,
+    "events_per_second": 149.81,
+    "avg_events_per_session": 11.13
+  }
+}

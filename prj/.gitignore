@@ -1,0 +1,39 @@
+# === Python ===
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+*.egg-info/
+.eggs/
+
+# === Virtual env ===
+venv/
+.env/
+ENV/
+.venv/
+
+# === Local SQLite database (player state + event queue) ===
+*.db
+*.sqlite
+*.sqlite3
+
+# === Raw data simulator sinh ra (nặng, có thể regen) ===
+data/raw/
+
+# === IDE / Editor ===
+.vscode/
+.idea/
+*.swp
+*.swo
+.DS_Store
+Thumbs.db
+
+# === Logs ===
+*.log
+logs/
+
+# === Python cache đặc thù ===
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
